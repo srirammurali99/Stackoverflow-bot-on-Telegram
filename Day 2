@@ -1,0 +1,14 @@
+# Day 2:
+1.	Created the Telegram bot using Bot father in Telegram
+2.	Got the ID for the bot
+3.	Communicated with bot
+4.	Tried to retrieve texts from messages
+
+## Used packages/libraries:
+1.	python-telegram-bot
+2.	requests
+
+## Reference:
+1.	https://www.youtube.com/playlist?list=PLVCgi5HZ0-Yt534vFsbzdw36yfC3OtiuY
+2.	https://www.geeksforgeeks.org/create-a-telegram-bot-using-python/
+

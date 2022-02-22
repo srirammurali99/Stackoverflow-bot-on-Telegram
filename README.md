@@ -18,6 +18,7 @@ A simple Stack Overflow bot used through Telegram to find solutions
 
 ## Packages used:
   •	Telethon
+  •	Telegram.ext
 
 ## Technologies:
   •	Python
